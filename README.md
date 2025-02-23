@@ -8,16 +8,16 @@
 
 ---
 
-I'm a Computer Engineering student passionate about **Full Stack Development** and **Open Source Contributions**.  
-I love building web applications and working with **MERN Stack**.
-Currently learning **Data Structures & Algorithms** in **Java** and exploring **Android Development** using native languages.
+I'm a Computer Engineering student passionate about `Full Stack Development` and `Open Source Contributions`.  
+I love building web applications and working with `MERN Stack`.
+Currently learning `Data Structures & Algorithms` in `Java` and exploring `Android Development` using native languages.
 
 ### 🔗 Links:
 <!-- <a href="#"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a> -->
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aryan-rokade-23913b335)  
 - 🎨 [Portfolio](#) *(Coming soon...)*  
-- 📄 [My Resume](#) *(Upload on Google Drive & add link here)*  
+- 📄 [My Resume](#)
 
 ---
 
@@ -31,13 +31,6 @@ Currently learning **Data Structures & Algorithms** in **Java** and exploring **
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
-
-
-
-<!-- ### 🚀 **Frameworks & Libraries**
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express) -->
 
 ### 🛠️ **Tools & Platforms**
 ![VS Code](https://skillicons.dev/icons?i=vscode)
@@ -85,7 +78,7 @@ Currently learning **Data Structures & Algorithms** in **Java** and exploring **
 
 ## 🤝 Connect with Me  
 
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="32">](https://www.linkedin.com/in/your-profile) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/_aryan_rokade) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="32">](https://github.com/aryanrokade7) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" width="32">](mailto:your-email@gmail.com) |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="32">](https://www.linkedin.com/in/aryan-rokade-23913b335) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/_aryan_rokade) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="32">](https://github.com/aryanrokade7) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" width="32">](mailto:aryanrokade416@gmail.com) |
 |:-----------------------------------------:|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Rokade&color=blue&style=flat&label=Profile+Views&base=100)

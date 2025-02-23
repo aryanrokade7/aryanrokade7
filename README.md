@@ -8,8 +8,8 @@
 
 ---
 
-- I'm a `Computer Engineering` student passionate about ``Full Stack Development`` and `Open Source Contributions`.\
-- I love building web applications and working with `MERN Stack`. \
+- I'm a `Computer Engineering` student passionate about ``Full Stack Development`` and `Open Source Contributions`.
+- I love building web applications and working with `MERN Stack`.
 - Currently learning `Data Structures & Algorithms` in `Java` and exploring `Android Development` using native languages. 
 
 ### 🔗 Links:

@@ -1,4 +1,4 @@
-## Hi, I'm Aryan Rokade <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+# Hi, I'm Aryan Rokade <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <img src="https://github.com/aryanrokade7/aryanrokade7/blob/main/Aryan%20Rokade.png?raw=true" alt="Profile Banner" width="100%">
 

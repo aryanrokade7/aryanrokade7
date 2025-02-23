@@ -4,13 +4,13 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&letterSpacing=1px&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1080&height=40&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+Page;%F0%9F%92%BB+Passionate+Coder;%F0%9F%9A%80+MERN-Stack+Developer;%F0%9F%8D%B5+DSA+in+Java...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&letterSpacing=1px&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1080&height=40&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+Page;%F0%9F%92%BB+Passionate+Coder;%F0%9F%9A%80+MERN-Stack+Developer;%F0%9F%8D%B5+DSA+in+Java)](https://git.io/typing-svg)
 
 ---
 
 I'm a Computer Engineering student passionate about **Full Stack Development** and **Open Source Contributions**.  
-I love building web applications and working with **MERN Stack**.  
-Currently learning **Data Structures & Algorithms in Java**.
+I love building web applications and working with **MERN Stack**.
+Currently learning **Data Structures & Algorithms** in **Java** and exploring **Android Development** using native languages.
 
 ### 🔗 Links:
 <!-- <a href="#"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a> -->

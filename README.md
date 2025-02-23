@@ -15,7 +15,7 @@ Currently learning **Data Structures & Algorithms in Java**.
 ### 🔗 Links:
 <!-- <a href="#"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a> -->
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/Aryan Rokade)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/)  
 - 🎨 [Portfolio](#) *(Coming soon...)*  
 - 📄 [My Resume](#) *(Upload on Google Drive & add link here)*  
 
@@ -57,12 +57,21 @@ Currently learning **Data Structures & Algorithms in Java**.
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryanrokade7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>   
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryanrokade7&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </p>
+
+---
+
+<p align="center">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryanrokade7&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</p>
+
+---
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanrokade7&theme=vision_friendly_dark" alt="Profile Summary Card" />
 </p>
+
+---
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanrokade7&theme=vision_friendly_dark" alt="GitHub Streak" />

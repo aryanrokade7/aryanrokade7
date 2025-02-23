@@ -8,9 +8,9 @@
 
 ---
 
-I'm a `Computer Engineering` student passionate about `Full Stack Development` and `Open Source Contributions`.\
-I love building web applications and working with `MERN Stack`. \
-Currently learning `Data Structures & Algorithms` in `Java` and exploring `Android Development` using native languages. 
+- I'm a `Computer Engineering` student passionate about ``Full Stack Development`` and `Open Source Contributions`.\
+- I love building web applications and working with `MERN Stack`. \
+- Currently learning `Data Structures & Algorithms` in `Java` and exploring `Android Development` using native languages. 
 
 ### 🔗 Links:
 <!-- <a href="#"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a> -->

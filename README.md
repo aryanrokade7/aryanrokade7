@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aryan Rokade <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
+## Hi, I'm Aryan Rokade <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <img src="https://github.com/aryanrokade7/aryanrokade7/blob/main/Aryan%20Rokade.png?raw=true" alt="Profile Banner" width="100%">
 
@@ -10,7 +10,7 @@
 
 I'm a `Computer Engineering` student passionate about `Full Stack Development` and `Open Source Contributions`.  
 I love building web applications and working with `MERN Stack`.
-Currently learning `Data Structures & Algorithms` in `Java` and exploring `Android Development` using native languages.
+Currently learning `Data Structures & Algorithms` in `Java` and exploring `Android Development` using native languages. 
 
 ### 🔗 Links:
 <!-- <a href="#"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a> -->
@@ -81,5 +81,5 @@ Currently learning `Data Structures & Algorithms` in `Java` and exploring `Andro
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="32">](https://www.linkedin.com/in/aryan-rokade-23913b335) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/_aryan_rokade) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="32">](https://github.com/aryanrokade7) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" width="32">](mailto:aryanrokade416@gmail.com) |
 |:-----------------------------------------:|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Rokade&color=blue&style=flat&label=Profile+Views&base=100)
+![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Rokade&color=blue&style=flat&label=Profile+Views&base=1000)
 
